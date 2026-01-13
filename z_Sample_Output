@@ -1,0 +1,14 @@
+
+Password Tested YourPasswordHere321
+
+Microsoft Windows [Version 10.0.26100.7462]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\noahs> cd C:\Users\noahs\OneDrive\UNIVERSITY\VSCODE\C script\password_checker
+
+C:\Users\noahs\OneDrive\UNIVERSITY\VSCODE\C script\password_checker> password_checker
+
+C:\Users\noahs\OneDrive\UNIVERSITY\VSCODE\C script\password_checker>echo %ERRORLEVEL%
+1
+
+C:\Users\noahs\OneDrive\UNIVERSITY\VSCODE\C script\password_checker>
