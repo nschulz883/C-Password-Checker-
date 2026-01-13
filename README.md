@@ -62,7 +62,7 @@ char password[] = "YourPasswordHere";
 Use a C compiler such as gcc:
 
 ```c
-gcc src/password_checker.c -o password_checker
+gcc password_checker.c -o password_checker
 ```
 
 ### 3. Run the Program
