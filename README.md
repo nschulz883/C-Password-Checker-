@@ -56,7 +56,7 @@ A password is considered **STRONG** if it meets all of the following:
 Open `src/password_checker.c` and modify the password string:
 
 ```c
-char password[] = "YourPasswordHere";
+char password[] = "YourPasswordHere321";
 ```
 ### 2. Compile the Program
 Use a C compiler such as gcc:
