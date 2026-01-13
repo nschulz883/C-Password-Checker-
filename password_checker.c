@@ -3,7 +3,7 @@
 
 int main (){
 //password hardcoded here
-char password[] = "NoaSchulZ321";
+char password[] = "YourPasswordHere";
 
 
 //Password strength variables: length, if it has numbers, capital letters and small letters mixed
